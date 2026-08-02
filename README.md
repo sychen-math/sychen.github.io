@@ -1,4 +1,4 @@
-# Shih-Yu Chen — Academic Website
+# Shih-Yu Chen
 
 A lightweight static academic website prepared for GitHub Pages. It uses plain HTML and CSS, so no build system or command-line setup is required.
 
